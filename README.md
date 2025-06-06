@@ -8,10 +8,13 @@ This Power BI dashboard tracks and visualizes the performance of social media co
 
 ---
 
-## 📁 File Details
+Snap of Dashboad Pages (3) ,
 
-- **File Name:** `Crystal_Social_Media_Content_DB.pbix`
-- **File Path:** `G:/My Drive/Personal/Github/Power BI/Social Media Content/`
+![Image](https://github.com/user-attachments/assets/67c615bb-5a72-459e-a9b2-020fbc236b53)
+
+![Image](https://github.com/user-attachments/assets/75b3ca99-3fc7-418e-9ec6-ef3d620a2aff)
+
+![Image](https://github.com/user-attachments/assets/bb21c2a9-6a68-48aa-9b6c-d778de931d81)
 
 ---
 
@@ -33,7 +36,7 @@ This Power BI dashboard tracks and visualizes the performance of social media co
 - **Bar Chart** for engagement by region  
 - **Timeline Chart** for daily engagement & MoM %  
 - **Advanced Slicers** for content type, engagement level, and platform  
-- **Dynamic Icons & Branding** using company logos and color palettes  
+- **Dynamic Icons & Branding** using company logos
 
 ### ✅ Platform & Content Deep Dive
 - Engagement metrics: CTR, ER%, clicks per view  
@@ -58,6 +61,9 @@ Click - Through Rate = [Total Clicks] / [Total Views]
 ER% = ([Total Engagement] / [Total Posts])
 
 ```
+## Info Button Bookmark. 
+
+![Image](https://github.com/user-attachments/assets/0aa690b7-c024-43ad-9d9e-14b9b9c14ea3)
 
 ---
 
