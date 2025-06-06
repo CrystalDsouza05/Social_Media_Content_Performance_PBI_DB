@@ -120,7 +120,8 @@ Post Title (Dynamic Labeling) = SELECTEDVALUE('Colour Codes'[Name], "Social Medi
 
 ## 🚀 Tech Stack
 
-- Power BI Desktop & Power BI Service  
+- Power BI Desktop & Power BI Service
+- MS Excel for Data Source 
 - DAX  
 - Power Query  
 - ZoomCharts Visuals
