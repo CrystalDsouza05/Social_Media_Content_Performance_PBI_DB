@@ -56,9 +56,30 @@ Snap of Dashboad Pages (3) ,
 
 Some of the DAX measures used in the dashboard include:
 
-```DAX
-Click - Through Rate = [Total Clicks] / [Total Views]
-ER% = ([Total Engagement] / [Total Posts])
+```📐 Key Measures:
+
+Totals: 
+Total Posts
+Total Engagement
+Total Views
+Total Likes
+Total Comments
+Total Shares
+Total Video Views
+Total Impressions
+Total Clicks
+
+Other Measures:
+Avg Engagement
+Click-Through Rate (CTR)
+Clicks per view
+Video View Rate
+Live Stream View Rate
+Engagement – Previous Month
+Engagement per post
+Engagement MoM % Change
+Engagement Rate (%) – ER%
+Post Title (Dynamic Labeling)
 
 ```
 ## Info Button Bookmark. 
@@ -99,7 +120,8 @@ ER% = ([Total Engagement] / [Total Posts])
 - Power BI Desktop & Power BI Service  
 - DAX  
 - Power Query  
-- ZoomCharts Visuals  
+- ZoomCharts Visuals
+- PowerPoint and Figma for Design
 - PBI Helper for documentation
 
 ---
