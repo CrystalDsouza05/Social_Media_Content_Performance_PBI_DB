@@ -111,12 +111,11 @@ Post Title (Dynamic Labeling) = SELECTEDVALUE('Colour Codes'[Name], "Social Medi
 
 ## 🔍 Insights Uncovered
 
-- **Instagram** leads in engagement and reach  
-- **Reels** & **Carousels** outperform single-image posts  
-- **Mid-week posts** perform best (Wednesday & Thursday)  
+- **Youtube** leads in engagement and reach  
+- **Videos** & **Images** outperform other posts type by Shares
+- **Mid-week posts** perform best (Wednesday & Thursday) in the mornings and afternoons 
 - **Top hashtags** drive higher clicks and engagement  
-- **Business-related posts** show higher CTR on LinkedIn  
-
+- **#CustomerStory** is the Top Hashtag that drives higher clicks and engagement  
 ---
 
 ## 🚀 Tech Stack
