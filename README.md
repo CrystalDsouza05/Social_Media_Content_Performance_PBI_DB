@@ -58,7 +58,7 @@ Some of the DAX measures used in the dashboard include:
 
 ```📐 Key Measures:
 
-Totals:
+`Totals:`
 Total Posts = COUNT(Posts[Post_ID])
 Total Engagement = SUM(Posts[Engagement])
 Total Views = SUM(Posts[Views])
@@ -69,7 +69,7 @@ Total Video Views = SUM(Posts[Video_Views])
 Total Impressions = SUM(Posts[Impressions])
 Total Clicks = SUM(Posts[Clicks])
 
-Other Measures:
+`Other Measures:`
 Avg Engagement = AVERAGE(Posts[Engagement_Rate])
 Click-Through Rate (CTR) = DIVIDE(SUM(Posts[Clicks]), SUM(Posts[Impressions]), 0)
 Clicks per view = DIVIDE(SUM('Posts'[Clicks]), [Total Views], 0)
@@ -105,8 +105,9 @@ Post Title (Dynamic Labeling) = SELECTEDVALUE('Colour Codes'[Name], "Social Medi
   - Region in `Posts` linked to `Location`  
   - Platform linked to icons and color codes  
 
+- **Data Model:**
+![Image](https://github.com/user-attachments/assets/5d229f3c-fe12-48ae-8e38-94052984276a)
 ---
-
 
 ## 🔍 Insights Uncovered
 
