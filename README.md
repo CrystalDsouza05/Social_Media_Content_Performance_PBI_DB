@@ -58,28 +58,31 @@ Some of the DAX measures used in the dashboard include:
 
 ```📐 Key Measures:
 
-Totals: 
-Total Posts
-Total Engagement
-Total Views
-Total Likes
-Total Comments
-Total Shares
-Total Video Views
-Total Impressions
-Total Clicks
+Totals:
+Total Posts = COUNT(Posts[Post_ID])
+Total Engagement = SUM(Posts[Engagement])
+Total Views = SUM(Posts[Views])
+Total Likes = SUM(Posts[Likes])
+Total Comments = SUM(Posts[Comments])
+Total Shares = SUM(Posts[Shares])
+Total Video Views = SUM(Posts[Video_Views])
+Total Impressions = SUM(Posts[Impressions])
+Total Clicks = SUM(Posts[Clicks])
 
 Other Measures:
-Avg Engagement
-Click-Through Rate (CTR)
-Clicks per view
-Video View Rate
-Live Stream View Rate
-Engagement – Previous Month
-Engagement per post
-Engagement MoM % Change
-Engagement Rate (%) – ER%
-Post Title (Dynamic Labeling)
+Avg Engagement = AVERAGE(Posts[Engagement_Rate])
+Click-Through Rate (CTR) = DIVIDE(SUM(Posts[Clicks]), SUM(Posts[Impressions]), 0)
+Clicks per view = DIVIDE(SUM('Posts'[Clicks]), [Total Views], 0)
+Video View Rate = DIVIDE([Total Video Views], [Total Views], 0)
+Live Stream View Rate = DIVIDE(SUM('Posts'[Live_Stream_Views]), [Total Views], 0)
+Engagement – Previous Month = CALCULATE([Total Engagement], DATEADD(Dates[Date], -1, MONTH))
+Engagement per post = DIVIDE([Total Engagement], [Total Posts], 0)
+Engagement MoM % Change =
+  DIVIDE(
+    [Total Engagement] - [Engagement Previous Month],
+    [Engagement Previous Month])
+Engagement Rate (%) – ER% = DIVIDE([Total Engagement], [Total Views], 0)
+Post Title (Dynamic Labeling) = SELECTEDVALUE('Colour Codes'[Name], "Social Media Marketing Dashboard (All Media)")
 
 ```
 ## Info Button Bookmark. 
