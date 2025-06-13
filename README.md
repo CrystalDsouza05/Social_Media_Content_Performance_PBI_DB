@@ -10,11 +10,11 @@ This Power BI dashboard tracks and visualizes the performance of social media co
 
 Snap of Dashboad Pages (3) ,
 
-![Image](https://github.com/user-attachments/assets/67c615bb-5a72-459e-a9b2-020fbc236b53)
+![image](https://github.com/user-attachments/assets/9e95d0bf-f0a0-4086-96c7-e8be349d8515)
 
-![Image](https://github.com/user-attachments/assets/75b3ca99-3fc7-418e-9ec6-ef3d620a2aff)
+![image](https://github.com/user-attachments/assets/16c7674c-c13e-4ea8-878e-d063fe04cee9)
 
-![Image](https://github.com/user-attachments/assets/bb21c2a9-6a68-48aa-9b6c-d778de931d81)
+![image](https://github.com/user-attachments/assets/3cd28538-01f0-4726-abec-a1f84e990429)
 
 ---
 
@@ -87,7 +87,7 @@ Post Title (Dynamic Labeling) = SELECTEDVALUE('Colour Codes'[Name], "Social Medi
 ```
 ## Info Button Bookmark. 
 
-![Image](https://github.com/user-attachments/assets/0aa690b7-c024-43ad-9d9e-14b9b9c14ea3)
+![image](https://github.com/user-attachments/assets/b3f09e00-4776-4b70-9c2c-0906f7763be5)
 
 ---
 
