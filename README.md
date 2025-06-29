@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/531e0fe6-97cc-41c3-bea3-46b6be8a8e71)
+
+
 # Social Media Content Performance Dashboard
 
 ### 📊 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYWY4ZmY1ZjEtYzkyMi00NTNhLTk2YjMtOTJiMjhmOTQxMzY5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
