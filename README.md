@@ -85,7 +85,7 @@ Engagement MoM % Change =
     [Total Engagement] - [Engagement Previous Month],
     [Engagement Previous Month])
 Engagement Rate (%) – ER% = DIVIDE([Total Engagement], [Total Views], 0)
-Post Title (Dynamic Labeling) = SELECTEDVALUE('Colour Codes'[Name], "Social Media Marketing Dashboard (All Media)")
+Post Title (Dynamic Labelling) = SELECTEDVALUE('Colour Codes'[Name], "Social Media Marketing Dashboard (All Media)")
 
 ```
 ## Info Button Bookmark. 
